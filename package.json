@@ -1,0 +1,21 @@
+{
+  "name": "@mozart25/react-event-bus",
+  "version": "1.0.3",
+  "description": "A simple event bus for React applications",
+  "main": "lib/EventBus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "event",
+    "bus",
+    "javascript",
+    "react",
+    "next"
+  ],
+  "author": "supasupalee",
+  "license": "MIT",
+  "dependencies": {
+    "events": "^3.3.0"
+  }
+}
